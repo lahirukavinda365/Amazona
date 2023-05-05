@@ -25,7 +25,7 @@ const HomeScreen = {
                  </div>
                 </li>
                 `
-            )};
+            ).join('\n')}
 
         `
     },
